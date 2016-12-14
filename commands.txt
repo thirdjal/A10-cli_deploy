@@ -1,0 +1,3 @@
+system session-reclaim-limit nscan-limit 4096
+system session-reclaim-limit scan-freq 20
+exit
